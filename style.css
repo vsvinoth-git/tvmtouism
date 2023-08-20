@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.list{
+    margin-left: 40px;
+    color: blue;
+    font-size: 25px;
+    }
+    ol li{
+        font-style: italic;
+    }
+    .dd a{
+        text-decoration: none;
+    }
+    ul li a{
+text-decoration: none;
+color: inherit;
+    }
+nav img{
+    width: 150px;
+    opacity: .9;  
+    mix-blend-mode:color-burn; 
+        }
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+    margin: opx auto;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.logo{
+    font-style: italic;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;    
+    cursor: pointer;
+    width: 50%;
+    font-size: 20px;
+    background-color:;
+    
+}
+nav li:hover{
+    color: rgb(112, 8, 62);
+    scale: 1.3;    
+    }   
+    .s1{
+        background-color: black;
+        color: white;
+        border-radius: 20px;
+        padding: 3px;
+        font-size: 25px;
+        cursor: pointer;
+    }
+    .vino{
+        
+        /* background-image: url(tvm.jpg);
+        background-repeat: no-repeat; */
+    }
+      .video{
+        /* text-align: center; */
+        
+        /* padding: 50px; */
+      }
+    
+    span{
+        display: block;
+        
+    }
+    h1{
+        align-items: center;
+    }
+    .vino2{
+        align-items: center;
+    }
+    .temple{
+        display: flex;
+        justify-content:space-between ;
+        margin: 10px;
+    }
+    .temple2{
+        width: 500px;
+               
+    }
+    .aruna{
+        margin: 20px;
+    }
+    .sub{
+        padding: 20px;
+        /* border: 1px solid rgb(7, 149, 73);
+        border-radius: 10px; */
+    }
+    .dam{
+        display: flex;
+        justify-content:space-between ;
+    }
+    .dam1{
+        padding: 20px;
+    }
+    .sathanur{
+        margin: 20px;
+    }
+    .hill{
+        display: flex;
+    }
+.hill1{
+    padding: 25px;
+}
+.javadu,.fort,.ashram{
+    margin: 20px;
+}
+.hill2{
+    text-align: right;
+
+} 
+ .pic{
+    display: flex;
+    
+}
+.hill4{
+    display: flex;
+}
+/* .pic1,.pic2,.pic3{
+    border: 1px solid black;
+} */
+.gingee,.ramana,.ska{
+    display: flex;
+}
+.vdo{
+    width: 100%;
+}
+.button:hover{
+    color: aqua;
+}
+    
